@@ -5,9 +5,9 @@
 
 <!-- BADGES ROW -->
 <p>
-  <img src="https://img.shields.io/github/stars/your-username/awesome-research-hub?style=for-the-badge&logo=github&color=FFD700&labelColor=0d1117" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/your-username/awesome-research-hub?style=for-the-badge&logo=github&color=4f46e5&labelColor=0d1117" alt="Forks"/>
-  <img src="https://img.shields.io/github/contributors/your-username/awesome-research-hub?style=for-the-badge&logo=github&color=10b981&labelColor=0d1117" alt="Contributors"/>
+  <img src="https://img.shields.io/github/stars/Ciprian-LocalPulse/awesome-research-hub?style=for-the-badge&logo=github&color=FFD700&labelColor=0d1117" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/Ciprian-LocalPulse/awesome-research-hub?style=for-the-badge&logo=github&color=4f46e5&labelColor=0d1117" alt="Forks"/>
+  <img src="https://img.shields.io/github/contributors/Ciprian-LocalPulse/awesome-research-hub?style=for-the-badge&logo=github&color=10b981&labelColor=0d1117" alt="Contributors"/>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&labelColor=0d1117" alt="PRs Welcome"/>
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&labelColor=0d1117" alt="License"/>
   <img src="https://img.shields.io/badge/Maintained-yes-success?style=for-the-badge&labelColor=0d1117" alt="Maintained"/>
@@ -74,6 +74,7 @@ This repo is **all five, unified**.
 - [📚 Free Books & Courses](#-free-books--courses)
 - [⚡ Performance Engineering](#-performance-engineering)
 - [🔭 Emerging Fields](#-emerging-fields)
+- [💠 Research Support](#-entropic-threat-continuum--research-support)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [📜 License](#-license)
 
@@ -317,9 +318,74 @@ Track your progress: open an issue with the title `[100-Day Challenge] Your Name
 
 <div align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=github-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ciprian-LocalPulse&theme=github-dark&hide_border=true)
 
 </div>
+
+---
+
+## 💠 Entropic Threat Continuum — Research Support
+
+<div align="center">
+
+<sub><b>CEA · AIA · ICA</b> — 100% toward research, open-access & dissemination</sub>
+
+</div>
+
+This repository is maintained independently, on personal time. If it has saved you hours of searching, taught you something, or you simply want to back independent open-access research and keep this list free for everyone, you can contribute directly through any of the channels below.
+
+<table>
+<tr><td colspan="2">
+
+### 🇪🇺 European Payment — SEPA / EUR <sub>· CEA · AES-256</sub>
+
+| Field | Detail |
+|---|---|
+| Recipient | Ciprian Stefan Plesca |
+| IBAN | `BE83 9679 1975 8915` |
+| SWIFT / BIC | `TRWIBEB1XXX` |
+| Bank | Wise, Rue du Trône 100, 3rd floor, Brussels, 1050, Belgium |
+
+</td></tr>
+<tr><td colspan="2">
+
+### 🇬🇧 United Kingdom Payment — Faster Payments / GBP <sub>· AIA · SHA-3</sub>
+
+| Field | Detail |
+|---|---|
+| Recipient | Ciprian Stefan Plesca |
+| Account number | `92055372` |
+| Sort code | `23-14-70` |
+| IBAN | `GB68 TRWI 2314 7092 0553 72` |
+| SWIFT / BIC | `TRWIGB2LXXX` |
+| Bank | Wise Payments Limited, 1st Floor, Worship Square, 65 Clifton Street, London, EC2A 4JE, United Kingdom |
+
+</td></tr>
+<tr><td colspan="2">
+
+### 🇺🇸 United States Payment — ACH / Wire / USD <sub>· ICA · RSA-4096</sub>
+
+| Field | Detail |
+|---|---|
+| Recipient | Ciprian Stefan Plesca |
+| Account type | Checking |
+| Routing number | `026073150` |
+| Account number | `8314225367` |
+| SWIFT / BIC | `CMFGUS33` |
+| Bank | Community Federal Savings Bank, 89-16 Jamaica Ave, Woodhaven, NY, 11421, United States |
+
+</td></tr>
+</table>
+
+<div align="center">
+
+| ₿ Bitcoin (BTC) | Ξ Ethereum (ETH) | PP PayPal |
+|---|---|---|
+| `bc1qf3yy0w8z37rwavxpu38wem3yffpanw7wzj32qj` | `0x27d9a6a5b8507e6031bb044319410da96222d402` | [paypal.me/agentflowenterprise](https://paypal.me/agentflowenterprise) |
+
+</div>
+
+<sub>*The CEA / AIA / ICA tags and cipher labels above are this maintainer's internal reference codes, not a claim about the transfer mechanism itself — bank wires, PayPal, and on-chain transactions each carry their own standard security model.*</sub>
 
 ---
 
@@ -331,7 +397,7 @@ This repository is **community-first**. Every link, every explanation, every cor
 
 ```bash
 # 1. Fork and clone
-git clone https://github.com/your-username/awesome-research-hub
+git clone https://github.com/Ciprian-LocalPulse/awesome-research-hub
 
 # 2. Create a branch
 git checkout -b add/your-resource-name
@@ -362,7 +428,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for full guidelines.
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/awesome-research-hub&type=Date)](https://star-history.com/#your-username/awesome-research-hub&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Ciprian-LocalPulse/awesome-research-hub&type=Date)](https://star-history.com/#Ciprian-LocalPulse/awesome-research-hub&Date)
 
 </div>
 
