@@ -397,22 +397,15 @@ This repository is **community-first**. Every link, every explanation, every cor
 
 ```bash
 # 1. Fork and clone
-git clone https://github.com/Ciprian-LocalPulse/awesome-research-hub
+git clone [https://github.com/Ciprian-LocalPulse/awesome-research-hub](https://github.com/Ciprian-LocalPulse/awesome-research-hub)
 
 # 2. Create a branch
 git checkout -b add/your-resource-name
 
 # 3. Add your resource following the format below
-# 4. Run the link checker
-npm run check-links
+# 4. Open a Pull Request
 
-# 5. Submit a Pull Request
-```
-
-**Resource format:**
-```markdown
 - 📘 [Title](URL) — One sentence: what it is and why it's worth your time
-```
 
 **Quality bar:** A resource earns its place if it answers "yes" to at least two of:
 - [ ] Is this the best explanation of this concept you've found?
