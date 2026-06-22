@@ -1,32 +1,31 @@
 ---
-name: 🔗 Broken Link
-about: Report a URL that no longer works
-title: "[BROKEN LINK] "
-labels: broken-link
-assignees: ''
+name: "🔗 Broken Link"
+about: Report a resource link that is dead, redirected, or returns an error
+title: "[Broken Link] "
+labels: ["broken-link", "needs-triage"]
+assignees: []
 ---
 
-## Broken Link Report
+## Broken Link
 
-**URL that is broken:**
-```
-https://
-```
+**File where the link appears**
+<!-- e.g. README.md, apis/README.md, docs/research-paper-guide.md -->
 
-**Section where it appears:**
-<!-- e.g., AI & Machine Learning > Large Language Models -->
+**Section / line**
+<!-- e.g. "AI & Machine Learning" → "fast.ai" -->
 
-**What happens when you visit it:**
+**Broken URL**
+<!-- paste the exact URL -->
+
+**What happens when you visit it?**
 - [ ] 404 Not Found
-- [ ] Domain expired / parked
-- [ ] Redirects to unrelated content
-- [ ] Requires login (was previously free)
-- [ ] Other: 
+- [ ] Redirects somewhere unrelated
+- [ ] Times out / never loads
+- [ ] Content changed and is no longer relevant
+- [ ] Other (describe below)
 
-**Suggested replacement URL (if you know one):**
-```
-https://
-```
+**Suggested replacement (if you have one)**
+<!-- An archive.org link, an updated URL, or a different resource covering the same topic -->
 
-**Additional context:**
-<!-- Any other info that helps -->
+---
+_Thanks for keeping the resource list trustworthy. 🙏_

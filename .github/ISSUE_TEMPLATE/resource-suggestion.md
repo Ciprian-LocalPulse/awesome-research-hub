@@ -1,38 +1,33 @@
 ---
-name: 💡 Resource Suggestion
-about: Suggest a resource that should be in the list
-title: "[SUGGESTION] "
-labels: suggestion
-assignees: ''
+name: "💡 Resource Suggestion"
+about: Suggest a new resource (article, paper, course, tool, API) to add
+title: "[Suggestion] "
+labels: ["resource-suggestion", "needs-triage"]
+assignees: []
 ---
 
 ## Resource Suggestion
 
-**Resource title:**
+**Title & URL**
+<!-- e.g. "Crafting Interpreters" — https://craftinginterpreters.com/ -->
 
-**URL:**
-```
-https://
-```
+**Proposed section**
+<!-- e.g. AI & Machine Learning > Large Language Models -->
 
-**Which section does it fit?**
-<!-- e.g., AI & Machine Learning > Fundamentals -->
+**One-sentence description**
+<!-- What it is and why it earns its place here -->
 
-**Proposed description (one sentence):**
-<!-- What it is and why it earns its place -->
+**Quality bar — check at least two:**
+- [ ] Is this the single best explanation of this concept you've found?
+- [ ] Would a senior engineer at a top company recommend this to a junior?
+- [ ] Does this contain something genuinely hard to find elsewhere?
+- [ ] Has it withstood the test of time, or is it genuinely state-of-the-art?
+- [ ] Does it include working code, exercises, or hands-on components?
 
-**Quality bar — this resource scores "yes" on:**
-- [ ] Best explanation of this concept I've found
-- [ ] A senior engineer at a top company would recommend this to a junior
-- [ ] Contains something genuinely hard to find elsewhere
-- [ ] Has withstood the test of time or is state-of-the-art
-- [ ] Includes working code, exercises, or hands-on components
+**Is it free, freemium, or paid?**
+<!-- 🆓 Free / 🔑 Free tier / 💰 Paid -->
 
-**Is it free?**
-- [ ] Fully free
-- [ ] Free tier available (describe: )
-- [ ] Paid (explain why it still deserves inclusion: )
+**Anything else reviewers should know?**
 
-**Any connection to this resource?**
-- [ ] No, I'm just a fan
-- [ ] I'm the author (declare this openly — still welcome, higher bar applies)
+---
+_See [CONTRIBUTING.md](../../CONTRIBUTING.md) for the full quality bar and style guide._
