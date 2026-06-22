@@ -1,8 +1,0 @@
-blank_issues_enabled: true
-contact_links:
-  - name: 💬 Ask a question / start a discussion
-    url: https://github.com/Ciprian-LocalPulse/awesome-research-hub/discussions
-    about: General questions, ideas, or anything that isn't a bug/resource report.
-  - name: 🏆 100-Day Challenge check-in
-    url: https://github.com/Ciprian-LocalPulse/awesome-research-hub/issues/new?title=%5B100-Day%20Challenge%5D%20Your%20Name
-    about: Tracking your progress in the 100-Day Learning Challenge.
