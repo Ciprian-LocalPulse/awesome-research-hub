@@ -1,0 +1,18 @@
+ai-ml:
+  - changed-files:
+      - any-glob-to-any-file: 'README.md'
+        
+documentation:
+  - changed-files:
+      - any-glob-to-any-file: 'docs/**'
+
+apis:
+  - changed-files:
+      - any-glob-to-any-file: 'apis/**'
+
+tooling:
+  - changed-files:
+      - any-glob-to-any-file: '.github/**'
+      - any-glob-to-any-file: 'scripts/**'
+      - any-glob-to-any-file: 'package.json'
+      - any-glob-to-any-file: 'package-lock.json'

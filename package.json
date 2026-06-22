@@ -1,0 +1,40 @@
+{
+  "name": "awesome-research-hub",
+  "version": "1.0.0",
+  "description": "The ultimate knowledge repository for researchers, engineers, and technical leaders",
+  "private": true,
+  "scripts": {
+    "check-links": "linkinator README.md apis/README.md docs/**/*.md --recurse --skip 'localhost|example.com|your-username' --format json --output broken-links.json && echo 'Link check complete'",
+    "check-links:verbose": "linkinator README.md --recurse --skip 'localhost|example.com|your-username' --verbosity info",
+    "lint:md": "markdownlint README.md CONTRIBUTING.md docs/**/*.md",
+    "validate": "npm run check-links && npm run lint:md",
+    "stats": "node scripts/repo-stats.js"
+  },
+  "devDependencies": {
+    "linkinator": "^6.1.2",
+    "markdownlint-cli": "^0.43.0"
+  },
+  "keywords": [
+    "awesome",
+    "research",
+    "computer-science",
+    "machine-learning",
+    "system-design",
+    "algorithms",
+    "papers",
+    "learning",
+    "engineering"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/awesome-research-hub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/awesome-research-hub/issues"
+  },
+  "homepage": "https://github.com/your-username/awesome-research-hub#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

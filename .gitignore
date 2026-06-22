@@ -1,0 +1,9 @@
+node_modules/
+broken-links.json
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.local
+dist/
+.cache/

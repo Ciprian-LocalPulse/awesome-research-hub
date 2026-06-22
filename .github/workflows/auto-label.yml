@@ -1,0 +1,22 @@
+name: 🏷️ Auto Label
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize]
+  issues:
+    types: [opened, edited]
+
+jobs:
+  label-pr:
+    name: Label Pull Requests
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      issues: write
+
+    steps:
+      - name: Label based on changed files
+        uses: actions/labeler@v5
+        with:
+          repo-token: "${{ secrets.GITHUB_TOKEN }}"
+          configuration-path: .github/labeler.yml
