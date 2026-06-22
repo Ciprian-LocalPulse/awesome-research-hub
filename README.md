@@ -397,7 +397,9 @@ This repository is **community-first**. Every link, every explanation, every cor
 
 ```bash
 # 1. Fork and clone
-git clone [https://github.com/Ciprian-LocalPulse/awesome-research-hub](https://github.com/Ciprian-LocalPulse/awesome-research-hub)
+```bash
+git clone https://github.com/Ciprian-LocalPulse/awesome-research-hub.git
+```
 
 # 2. Create a branch
 git checkout -b add/your-resource-name
@@ -420,9 +422,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for full guidelines.
 ## 🌟 Star History
 
 <div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Ciprian-LocalPulse/awesome-research-hub&type=Date)](https://star-history.com/#Ciprian-LocalPulse/awesome-research-hub&Date)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 </div>
 
 ---
