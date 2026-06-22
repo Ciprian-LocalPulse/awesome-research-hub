@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=awesome-research-hub&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=The%20Ultimate%20Knowledge%20Repository%20for%20Researchers%20%26%20Engineers&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=awesome-research-hub&desc=The%20Ultimate%20Knowledge%20Repository" width="100%"/>
 
 <!-- BADGES ROW -->
 <p>
